@@ -49,15 +49,9 @@
 
 	 <div class="row justify-content-around">
 		<div class="card text-dark bg-light mb-3" style="max-width: 75rem; margin-top: 35px">
-		    <h1 class="card-title">Sistem Pendukung Keputusan (SPK)</h1>
+		    <h1 class="card-title">Sistem Pendukung Keputusan Studi Kasus Pemberian Beasiswa</h1>
 		    <br>
-		    <p>Sistem pendukung keputusan adalah bagian dari sistem informasi berbasis komputer termasuk sistem manajemen pengetahuan berbasis pengetahuan yang digunakan untuk mendukung pengambilan keputusan dalam suatu organisasi atau perusahaan.</p>
-			<br>
-	    	<h1 class="card-title">Metode TOPSIS</h1>
-	    	<br>
-	    	<p>TOPSIS singkatan dari <i>The Technique for Order of Preference by Similarity to Ideal Solution</i>. TOPSIS adalah salah satu metode pengambilan keputusan multikriteria atau alternatif pilihan yang merupakan alternatif yang mempunyai jarak terkecil dari solusi ideal positif dan jarak terbesar dari solusi ideal negatif dari sudut pandang geometris dengan menggunakan jarak Euclidean.</p>
-	    	<br>
-	 		<p class="mt-5 mb-3 text-muted text-center">&copy;SPK by NMW 2021</p>
+		    <p class="mt-5 mb-3 text-muted text-center">&copy;SPK by NMW 2021</p>
 		</div>
 	</div>
 </body>
